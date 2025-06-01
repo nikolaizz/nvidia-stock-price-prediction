@@ -63,7 +63,8 @@ Tren ini mengindikasikan adanya potensi pola jangka panjang yang bisa ditangkap 
 Distribusi volume menunjukkan adanya ketimpangan, dengan sebagian besar hari memiliki volume perdagangan rendah hingga sedang, dan hanya sebagian kecil hari dengan volume sangat tinggi.
 Hal ini penting untuk dipertimbangkan karena lonjakan volume biasanya berkaitan dengan sentimen pasar atau peristiwa penting.
 
-- Korelasi Antar Fitur
+- Korelasi Antar Fitur 
+
 ![Korelasi Antar Fitur](https://i.imgur.com/HdKXb5F.png)
 
 Heatmap korelasi menunjukkan hubungan kuat antar harga saham, terutama antara Close, Adj Close, Open, High, dan Low.
